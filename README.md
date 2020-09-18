@@ -16,6 +16,6 @@ Pedro Luiz Soares Santos - 1903767
 14 - Comando Git Push inserido, solicitado login do Git Hub (print_10)  
 15 - Push realizado (print_11)  
 16 - pull  
-17 - Comando Git Pull inserido (print_11)
-
-
+17 - Comando Git Pull inserido (print_11)  
+18 - fetch
+19 - Fazendo mudança no Remoto para aplicar fecth (print_12)  
