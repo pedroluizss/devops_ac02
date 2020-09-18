@@ -13,7 +13,9 @@ Pedro Luiz Soares Santos - 1903767
 11 - Commit realizado do readme e dos prints 1 a 4 (print_08)  
 12 - Commit de nova modificação e adds (print_09)  
 13 - push  
-14 - Comando Git Push inserido, solicitado login do Git Hub (print_10)
-15 - Push realizado (print_11)
+14 - Comando Git Push inserido, solicitado login do Git Hub (print_10)  
+15 - Push realizado (print_11)  
+16 - pull  
+17 - Comando Git Pull inserido (print_11)
 
 
