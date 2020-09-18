@@ -19,6 +19,6 @@ Pedro Luiz Soares Santos - 1903767
 17 - Comando Git Pull inserido (print_11)  
 18 - fetch
 19 - Fazendo mudança no Remoto para aplicar fetch (print_12)  
-20 - Comando Fetch realizado (print_13)
+20 - Comando Fetch realizado (print_13)  
 21 - checkout  
 22 - Comando checkout (print_14)
